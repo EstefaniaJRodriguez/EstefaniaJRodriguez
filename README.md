@@ -1,16 +1,10 @@
 ### ¡Hola! 👋  Soy Estefania Rodriguez  👨‍💻
 
-<p>
- Estoy intruduciéndome en el área de Data Science. Considero tener un seniority Junior. Y estoy lista para seguir aprendiendo! :smile: :books: :muscle:
 <br/>
 
   
 ### ✨ Sobre mi
 
--   👨🏽‍💻 Actualmente trabajo en [Universidad Empresarial Siglo21](https://21.edu.ar) como Analista Funcional
--   💻 Fui desarrolladora de software en [DealerMovil](https://dealermovil.com)  ♥️
--   📕 Estoy aprendiendo mucho sobre Data Science ya que quiero llevar mi carrera profesional al máximo nivel en el área de datos.
--   🎿 En mi tiempo libre: Voy al gimnasio, escucho música, estudio o salgo a caminar ! 😄👩
 -   📫 Mi correo es: estefania.rodriguez.1313@gmail.com
 -   🔷 Mi LinkedIn 👉 [Estefania Rodriguez](https://www.linkedin.com/in/estefania-rodriguez-9a15a6177/)
 
