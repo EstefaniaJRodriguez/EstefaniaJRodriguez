@@ -4,6 +4,9 @@
 
   
 ### ✨ Sobre mi
+-   Front-end developer and Business Analyst with hands-on experience building responsive, user-focused web applications using React.js, JavaScript, CSS, and modern front-end workflows.
+ Strong background in analysing business requirements, translating them into clear technical solutions, and delivering high-quality user interfaces.
+ Currently based in Wānaka and passionate about joining a dynamic team where I can contribute to building exceptional digital experiences.
 
 -   📫 Mi correo es: estefania.rodriguez.1313@gmail.com
 -   🔷 Mi LinkedIn 👉 [Estefania Rodriguez](https://www.linkedin.com/in/estefania-rodriguez-9a15a6177/)
